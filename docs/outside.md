@@ -28,10 +28,6 @@ $rest_allowed_actions = [
       'submit' => [
         '*' => 'string',
       ],
-    ],
-  ],
-'all' => [
-    'TwingleDonation' => [
       'cancel' => [
         '*' => 'string',
       ],
