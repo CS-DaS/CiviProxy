@@ -31,6 +31,9 @@ $rest_allowed_actions = [
       'cancel' => [
         '*' => 'string',
       ],
+      'endrecurring' => [
+        '*' => 'string',
+      ],
     ],
   ],
 ];
