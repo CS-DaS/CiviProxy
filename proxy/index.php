@@ -51,7 +51,6 @@ require_once "proxy.php";
   <div id="container">
     <div id="info" class="center">
       <a href="https://www.systopia.de/"><img src="static/images/proxy-logo.png" alt="SYSTOPIA Organisationsberatung"></img></a>
-      <p id="version">CiviProxy</p>
     </div>
   </div>
  </body>
